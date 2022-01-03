@@ -1,4 +1,5 @@
-const text = "My friends are chutiyoaaaa";
+const text =
+  "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores optio ducimus assumenda itaque, consequuntur unde voluptatibus voluptatem numquam, blanditiis ex aut suscipit tempore expedita libero facilis. Facere distinctio sint quod.";
 
 let index = 0;
 
