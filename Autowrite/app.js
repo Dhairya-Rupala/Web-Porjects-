@@ -1,5 +1,5 @@
 const text =
-  "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores optio ducimus assumenda itaque, consequuntur unde voluptatibus voluptatem numquam, blanditiis ex aut suscipit tempore expedita libero facilis. Facere distinctio sint quod.";
+  "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores optio ducimus assumenda itaque.";
 
 let index = 0;
 
